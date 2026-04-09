@@ -1,0 +1,5 @@
+[
+  { "id": "贾宝玉", "role": "男主", "description": "通灵宝玉转世", "relations": ["林黛玉", "薛宝钗", "史湘云"] },
+  { "id": "林黛玉", "role": "女主", "description": "绛珠仙草转世", "relations": ["贾宝玉", "薛宝钗"] },
+  { "id": "薛宝钗", "role": "女主", "description": "蘅芜君，金玉良缘", "relations": ["贾宝玉", "林黛玉"] }
+]
