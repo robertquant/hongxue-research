@@ -1637,3 +1637,40 @@ error: failed to push some refs to 'https://github.com/robertquant/hongxue-resea
 [2026-04-12 10:03] Git push超时或失败，跳过
 [2026-04-12 10:03] <<< 完成：/home/node/.openclaw/workspace/hongxue-research/古典文学创作/127_AUTO_诗话.md
 [2026-04-12 10:08] >>> 开始创作方向: 笔记小说
+remote: error: GH013: Repository rule violations found for refs/heads/main.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: 9ecf99bb28a1c3ee47eb204544f31b90d2286dd2        
+remote:            path: 古典文学创作/创作记录.log:32        
+remote:          - commit: b885dc994dbe46ba1901d46f52a7ce9a884990ad        
+remote:            path: 古典文学创作/创作记录.log:32        
+remote:          - commit: 1ae10f64d0934d680dd1a4aa78290a04b00ae034        
+remote:            path: 古典文学创作/创作记录.log:32        
+remote:          - commit: ce6c49beb0e00e14ae91b0201ccffd462d297e38        
+remote:            path: 古典文学创作/创作记录.log:32        
+remote:          - commit: bf43fcd2ce5a4a8791d8fcd45e3ba2c9b493cbf5        
+remote:            path: 古典文学创作/创作记录.log:32        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/robertquant/hongxue-research/security/secret-scanning/unblock-secret/3CEy2S2vyXDFsJZuhKtVeaK7Ddx        
+remote:             
+remote: 
+remote: 
+To https://github.com/robertquant/hongxue-research.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/robertquant/hongxue-research.git'
+[2026-04-12 10:08] Git push超时或失败，跳过
+[2026-04-12 10:08] <<< 完成：/home/node/.openclaw/workspace/hongxue-research/古典文学创作/128_AUTO_笔记小说.md
+[2026-04-12 10:13] >>> 开始创作方向: 尺牍
