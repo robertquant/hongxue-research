@@ -1126,3 +1126,7 @@ fatal: unable to access 'https://github.com/robertquant/hongxue-research.git/': 
 [2026-04-12 08:16] Git push超时或失败，跳过
 [2026-04-12 08:16] <<< 完成：/home/node/.openclaw/workspace/hongxue-research/古典文学创作/106_AUTO_小品文.md
 [2026-04-12 08:21] >>> 开始创作方向: 诗话
+fatal: unable to access 'https://github.com/robertquant/hongxue-research.git/': Recv failure: Connection reset by peer
+[2026-04-12 08:21] Git push超时或失败，跳过
+[2026-04-12 08:21] <<< 完成：/home/node/.openclaw/workspace/hongxue-research/古典文学创作/107_AUTO_诗话.md
+[2026-04-12 08:26] >>> 开始创作方向: 笔记小说
