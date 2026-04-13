@@ -6376,3 +6376,7 @@ error: failed to push some refs to 'https://github.com/robertquant/hongxue-resea
 [2026-04-13 10:17] Git push超时或失败，跳过
 [2026-04-13 10:17] <<< 完成：/home/node/.openclaw/workspace/hongxue-research/古典文学创作/408_AUTO_笔记小说.md
 [2026-04-13 10:22] >>> 开始创作方向: 尺牍
+fatal: unable to access 'https://github.com/robertquant/hongxue-research.git/': Recv failure: Connection reset by peer
+[2026-04-13 10:22] Git push超时或失败，跳过
+[2026-04-13 10:22] <<< 完成：/home/node/.openclaw/workspace/hongxue-research/古典文学创作/409_AUTO_尺牍.md
+[2026-04-13 10:28] >>> 开始创作方向: 小品文
